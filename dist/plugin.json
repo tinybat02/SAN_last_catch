@@ -1,0 +1,21 @@
+{
+  "type": "panel",
+  "name": "SAN last catch",
+  "id": "id-san-last-catchment",
+  "dataFormats": ["table"],
+  "info": {
+    "description": "SAN last catch",
+    "author": {
+      "name": "Nam Le"
+    },
+    "keywords": [],
+    "screenshots": [],
+    "version": "1.0.0",
+    "updated": "2021-05-21"
+  },
+
+  "dependencies": {
+    "grafanaVersion": "6.3.x",
+    "plugins": []
+  }
+}
